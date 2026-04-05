@@ -10,7 +10,7 @@ My custom tool returned `null` on failure. The agent had no idea what went wrong
 
 ## What I Learned
 
-Tools should return **structured error messages** that tell the agent *what failed* and *what to try instead*. Agents can't debug silent failures, but they're surprisingly good at recovering from descriptive ones.
+Tools should return **structured error messages** that tell the agent _what failed_ and _what to try instead_. Agents can't debug silent failures, but they're surprisingly good at recovering from descriptive ones.
 
 ## Example
 

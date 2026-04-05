@@ -16,13 +16,16 @@
 
 ### Prompt Engineering
 
-- [Ask for a Plan Before Execution](01-prompt-engineering/ask-for-a-plan-before-execution.md)
-- [Use XML Tags to Structure Complex Instructions](01-prompt-engineering/use-xml-tags-for-structure.md)
+- [Ask for a Plan Before Execution](01-prompt-engineering/001-ask-for-a-plan-before-execution.md)
+- [Use XML Tags to Structure Complex Instructions](01-prompt-engineering/002-use-xml-tags-for-structure.md)
+- [4D Framework for AI Fluency](01-prompt-engineering/003-4d-framework-for-ai-fluency.md)
+- [Being Clear, Direct, and Specific](01-prompt-engineering/004-being-clear-direct-and-specific.md)
+- [Trigger Extended Thinking on Static Evals](01-prompt-engineering/005-trigger-extended-thinking-on-static-evals.md)
 
 ### Tool Use & MCP
 
-- [MCP Servers Persist Within a Conversation](02-tool-use-mcp/mcp-servers-persist-within-conversation.md)
-- [Design Tools with Clear Failure Modes](02-tool-use-mcp/design-tools-with-clear-failure-modes.md)
+- [MCP Servers Persist Within a Conversation](02-tool-use-mcp/001-mcp-servers-persist-within-conversation.md)
+- [Design Tools with Clear Failure Modes](02-tool-use-mcp/002-design-tools-with-clear-failure-modes.md)
 
 ### Claude Code
 
