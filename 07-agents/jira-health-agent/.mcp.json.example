@@ -1,0 +1,27 @@
+{
+  "mcpServers": {
+    "mcp-atlassian-project-x": {
+      "command": "uvx",
+      "args": ["mcp-atlassian"],
+      "env": {
+        "JIRA_URL": "https://your-company.atlassian.net",
+        "JIRA_USERNAME": "your-email@company.com",
+        "JIRA_API_TOKEN": "your-api-token-from-step-1"
+      }
+    },
+    "telegram-mcp": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "/absolute/path/to/your-project/mcp/telegram-mcp",
+        "run",
+        "main.py"
+      ],
+      "env": {
+        "TELEGRAM_API_ID": "your-api-id",
+        "TELEGRAM_API_HASH": "your-api-hash",
+        "TELEGRAM_SESSION_STRING_WORK": "your-session-string"
+      }
+    }
+  }
+}

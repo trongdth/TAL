@@ -1,0 +1,3 @@
+[submodule "07-agents/jira-health-agent/mcp/telegram-mcp"]
+	path = 07-agents/jira-health-agent/mcp/telegram-mcp
+	url = https://github.com/chigwell/telegram-mcp.git

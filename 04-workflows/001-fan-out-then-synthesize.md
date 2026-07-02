@@ -1,6 +1,6 @@
 # Fan-Out Then Synthesize for Research Tasks
 
-> **Category:** multi-agent
+> **Category:** workflow
 > **Date:** 2026-03-20
 > **Agent/Tool:** Any multi-agent framework (CrewAI, LangGraph, Autogen, custom)
 
